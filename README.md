@@ -176,9 +176,9 @@ This project uses AI-generated code assistance (Gemini, GitHub Copilot). All cod
 
 | Name | Role |
 |------|------|
-| Person A | Backend + AI pipeline |
-| Person B | Frontend + UI/UX |
-| Person C | Deployment + Pitch |
+| ANI YASSIR | Backend + AI pipeline |
+| HANAN NASR| Frontend + UI/UX |
+| AYA ABUALGASIM| Deployment + Pitch |
 
 ---
 
